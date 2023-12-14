@@ -1,7 +1,7 @@
 # About The Project
 The aim of the project is to build a hangman game. Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts. This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. However, our hangman game is simpler than this, it is a CLI based game, and it is one player game only, at least for now!.
 
-This project is a tutorial task/project of a DevOps course provided by AiCore. Building this game has increase my knowledge of python especiaaly in the concept of object orinted programming. Now I feel more confident to solve bigger problems and build more challengble programs, thanks to AiCore.
+This project is a tutorial task/project of a DevOps course provided by AiCore. Building this game has increase my knowledge of python especialy in the concept of object orinted programming. Now I feel more confident to solve bigger problems and build more challengble programs, thanks to AiCore.
 
 
 # Installation and usage instructions
