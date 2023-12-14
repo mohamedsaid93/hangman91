@@ -5,7 +5,7 @@ This project is a tutorial task/project of a DevOps course provided by AiCore. B
 
 
 # Installation and usage instructions
-There are 5 different python files in this repository, but to test, run or play the game, you will only need to run milestone.py file. Other python files are considered to be incomplete and cannot be used to run the games fully. There only used as tutorials to build the game in steps. Therefore, to enjoy the game, run milestone_5.py and have fun.
+There are 4 different python files in this repository, but to test, run or play the game, you will only need to run milestone.py file. Other python files are considered to be incomplete and cannot be used to run the games fully. There only used as tutorials to build the game in steps. Therefore, to enjoy the game, run milestone_5.py and have fun.
 
 To run this game, download milestone_5.py and run it using any code editor software such as Visual Studio Code, Sublime Text, PyCharm or Atom. When you run the game, you wil be prompted to enter an input of one length alphabetic character at a time.
 
@@ -25,4 +25,4 @@ Also, to improve this game even further and make it more fun, this CLI  based ga
 
 
 # License information
-No license, consider it as an open sourc. It can be used anyone for any purpose, whether it's educational, personal or commercial use. However, whenever this game is used commercially, please give credit to AiCore the institution that developed the game.
+No license, consider it as an open source. It can be used anyone for any purpose, whether it's educational, personal or commercial use. However, whenever this game is used commercially, please give credit to AiCore the institution that developed the game. In fact, other developers are encouraged to contribute towards the improvement of this game.
